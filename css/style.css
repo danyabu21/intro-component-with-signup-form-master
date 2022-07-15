@@ -52,6 +52,7 @@ body {
 
 .text {
   padding: 4rem;
+  justify-self: end;
 }
 
 .text h1 {
@@ -74,6 +75,8 @@ body {
   display: flex;
   flex-direction: column;
   gap: 3rem;
+  padding: 4rem;
+
   width: 80%;
 }
 
